@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahima Susan Bijoy
 
-I'm a **Data and Business Analyst** with hands-on experience in business analytics and research.  
-I have worked on projects that combine **data-driven insights, predictive modeling, and business intelligence** to help organizations make informed decisions.
+I’m a Research Assistant at Seneca, working on multiple government-funded projects. I collect and analyze data, measure KPIs, create visualizations in Tableua and PowerBI, and prepare reports to help stakeholders make data-driven decisions.  
+With prior experience as a Business Analyst, I enjoy turning complex data into actionable insights. In my free time, I explore hands-on projects to grow professionally.
 
 My background spans from developing **AI-powered recommendation systems** and **machine learning dashboards** to conducting **data analysis** for academic and business applications.
 
