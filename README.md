@@ -29,6 +29,12 @@ A web app that compares housing affordability across Canadian cities using real 
 **Tech Stack:** Python, Pandas, Plotly, HTML/CSS, Machine Learning  
 **Highlight:** Enabled users to visualize affordability trends and make data-informed decisions.
 
+#### ♻️ [Geothermal Business Case Analysis](https://github.com/mahimasusan/geothermal-energy-analysis)
+A sustainability-focused data analysis assessing geothermal energy potential at Seneca campuses.  
+**Tools:** Excel, Power BI, Python (Matplotlib, Pandas)  
+**Highlight:** Conducted cost-benefit and energy consumption analysis supporting Seneca’s sustainability plan.
+
+
 ### 🌐 Connect with Me
 📫 **Email:** [mahimasusanbijoy@gmail.com](mailto:mahimasusanbijoy@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/mahimasusanbijoy](https://www.linkedin.com/in/mahimasusanbijoy)  
