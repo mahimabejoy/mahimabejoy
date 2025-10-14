@@ -3,7 +3,7 @@
 I’m a Research Assistant at Seneca, working on multiple government-funded projects. I collect and analyze data, measure KPIs, create visualizations in Tableua and PowerBI, and prepare reports to help stakeholders make data-driven decisions.  
 With prior experience as a Business Analyst, I enjoy turning complex data into actionable insights. In my free time, I explore hands-on projects to grow professionally.
 
-My background spans from developing **AI-powered recommendation systems** and **machine learning dashboards** to conducting **data analysis** for academic and business applications.
+My background spans from developing AI-powered recommendation systems to conducting data analysis for academic and business applications.
 
 ### 🎯 What I Do
 - Transform raw data into actionable business insights using **Python, SQL, and Tableau**
