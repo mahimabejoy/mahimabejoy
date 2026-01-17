@@ -24,7 +24,7 @@ and a **Bachelor’s in Electrical Engineering Technology**.
 
 ### Featured Projects
 
-#### 🏠 [Affordable Housing Solutions – ML Dashboard](https://musical-puffpuff-48aa58.netlify.app/)
+#### 🏠 [Affordable Housing Solutions – ML Dashboard](https://github.com/mahimabejoy/Housing-Challenge-)
 A web app that compares housing affordability across Canadian cities using real economic and housing data.  
 **Tech Stack:** Python, Pandas, Plotly, HTML/CSS, Machine Learning  
 **Highlight:** Enabled users to visualize affordability trends and make data-informed decisions.
