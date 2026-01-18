@@ -36,12 +36,14 @@ and a **Bachelor’s in Electrical Engineering Technology**.
 A web app that compares housing affordability across Canadian cities using real economic and housing data.  
 **Tech Stack:** Python, Pandas, Plotly, HTML/CSS, Machine Learning  
 **Highlight:** Enabled users to visualize affordability trends and make data-informed decisions.
+**Link:** 
 
 
 #### 📊 [Global Sales & Profit Performance Dashboard (Tableau)](https://github.com/mahimabejoy/sales_and_profit_performance)
 An executive-level Tableau dashboard analyzing global sales performance, profitability and order trends using the Global Superstore dataset.  
 **Tools:** Tableau, Excel (CSV)  
 **Highlight:** Defined and tracked core commercial KPIs (sales, profit, discount, orders) and identified high-performing regions, products, and margin inefficiencies to support data-driven business decisions.
+**Link:** [Global Sales & Profit Performance Dashboard (Tableau)](https://public.tableau.com/app/profile/mahima.susan.bijoy/viz/GlobalSuperstoreDashboard_16387955365310/Dashboard1)
 
 #### ♻️ [Geothermal Business Case Analysis](https://github.com/mahimabejoy/geothermal-energy-analysis)
 A sustainability-focused data analysis assessing geothermal energy potential at Seneca campuses.  
