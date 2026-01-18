@@ -39,12 +39,19 @@ A web app that compares housing affordability across Canadian cities using real 
 
 **Dashboard Link:** [Affordable Housing Solutions – Webapp](https://musical-puffpuff-48aa58.netlify.app/)
 
+
 #### 📊 [Global Sales & Profit Performance Dashboard (Tableau)](https://github.com/mahimabejoy/sales_and_profit_performance)
 An executive-level Tableau dashboard analyzing global sales performance, profitability and order trends using the Global Superstore dataset.  
 **Tools:** Tableau, Excel (CSV)  
 **Highlight:** Defined and tracked core commercial KPIs (sales, profit, discount, orders) and identified high-performing regions, products, and margin inefficiencies to support data-driven business decisions
 
 **Webapp Link:** [Global Sales & Profit Performance Dashboard (Tableau)](https://public.tableau.com/app/profile/mahima.susan.bijoy/viz/GlobalSuperstoreDashboard_16387955365310/Dashboard1)
+
+#### 🛒 [Market Basket Analysis](https://github.com/mahimabejoy/Market_Basket_Analysis)
+A retail analytics project identifying customer purchasing patterns and product relationships to drive merchandising decisions.  
+**Tools:** Python, SQL, Pandas, Matplotlib, MLxtend (Apriori & Association Rules)  
+**Highlight:** Generated actionable insights for product bundling, promotions, and assortment optimization by discovering frequent itemsets, association rules, and high-potential product pairings.
+
 
 #### ♻️ [Geothermal Business Case Analysis](https://github.com/mahimabejoy/geothermal-energy-analysis)
 A sustainability-focused data analysis assessing geothermal energy potential at Seneca campuses.  
