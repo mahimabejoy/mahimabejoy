@@ -32,7 +32,7 @@ I hold a **Postgraduate Diploma in Business Analytics** and **Project Management
 and a **Bachelor’s in Electrical Engineering Technology**.
 
 
-### Featured Projects
+## Featured Projects
 
 #### 🏠 [Affordable Housing Solutions – ML Dashboard](https://github.com/mahimabejoy/Housing-Challenge-)
 A web app that compares housing affordability across Canadian cities using real economic and housing data.  
