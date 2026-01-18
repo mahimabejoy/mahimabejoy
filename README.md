@@ -1,11 +1,13 @@
 # Hi, I'm Mahima Susan Bijoy
+**Merchandise & Business Analytics | SQL • Power BI • Excel • Python**
 
 I’m a data-driven analyst who turns complex merchandising and business data into clear insights that drive pricing, promotion, and assortment decisions.
 
 Currently, I work as a **Research Assistant on government-funded projects**, where I analyze large datasets, define KPIs, build executive-ready dashboards, and support stakeholder decision-making. Previously, I worked as a **Business Analyst**, partnering with cross-functional teams to translate data into actionable outcomes.
 My experience spans **retail-style analytics, KPI reporting and dashboard optimization**, with a strong focus on usability and business adoption.
 
-### What I Do
+## 🔹 What I Do
+
 - Analyze performance across **items, categories, and locations** using SQL, Excel, and Power BI  
 - Measure and interpret **sales, margin, traffic, and promotion impact**  
 - Build **Power BI & Tableau dashboards** that enable fast, data-driven decisions  
