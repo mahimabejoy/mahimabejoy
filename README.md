@@ -26,7 +26,7 @@ My experience spans **retail-style analytics, KPI reporting and dashboard optimi
 - Pricing & promotion analysis  
 - KPI definition & tracking  
 - Experimentation (A/B testing, Test & Learn concepts)  
-- Turning insights into **business actions**
+- Turning insights into business actions
 
 I hold a **Postgraduate Diploma in Business Analytics** and **Project Management** from **Seneca Polytechnic**,  
 and a **Bachelor’s in Electrical Engineering Technology**.
