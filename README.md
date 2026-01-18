@@ -36,8 +36,7 @@ and a **Bachelor’s in Electrical Engineering Technology**.
 A web app that compares housing affordability across Canadian cities using real economic and housing data.  
 **Tech Stack:** Python, Pandas, Plotly, HTML/CSS, Machine Learning  
 **Highlight:** Enabled users to visualize affordability trends and make data-informed decisions.
-**Link:** 
-
+**Link:** [Affordable Housing Solutions – Webapp](https://musical-puffpuff-48aa58.netlify.app/)
 
 #### 📊 [Global Sales & Profit Performance Dashboard (Tableau)](https://github.com/mahimabejoy/sales_and_profit_performance)
 An executive-level Tableau dashboard analyzing global sales performance, profitability and order trends using the Global Superstore dataset.  
