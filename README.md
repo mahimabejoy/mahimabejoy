@@ -1,22 +1,30 @@
 # Hi, I'm Mahima Susan Bijoy
 
-I’m a Research Assistant, working on multiple government-funded projects. I collect and analyze data, measure KPIs, create visualizations in Excel, Tableua and PowerBI, and prepare reports to help stakeholders make data-driven decisions.  
-With prior experience as a Business Analyst, I enjoy turning complex data into actionable insights. In my free time, I explore hands-on projects to grow professionally.
+I’m a data-driven analyst who turns complex merchandising and business data into clear insights that drive pricing, promotion, and assortment decisions.
 
-My background spans from developing AI-powered recommendation systems to conducting data analysis for academic and business applications.
+Currently, I work as a **Research Assistant on government-funded projects**, where I analyze large datasets, define KPIs, build executive-ready dashboards, and support stakeholder decision-making. Previously, I worked as a **Business Analyst**, partnering with cross-functional teams to translate data into actionable outcomes.
+My experience spans **retail-style analytics, KPI reporting and dashboard optimization**, with a strong focus on usability and business adoption.
 
 ### What I Do
-- Transform raw data into actionable business insights using **Python, SQL, and Tableau**
-- Build and optimize **machine learning models** to enhance customer experience and operational efficiency
-- Develop **interactive dashboards** and reports using **Power BI and Tableau**
-- Communicate analytical findings effectively to both technical and non-technical audiences
+- Analyze performance across **items, categories, and locations** using SQL, Excel, and Power BI  
+- Measure and interpret **sales, margin, traffic, and promotion impact**  
+- Build **Power BI & Tableau dashboards** that enable fast, data-driven decisions  
+- Validate data integrity, resolve hierarchy issues, and ensure reporting accuracy  
+- Communicate insights clearly to **non-technical stakeholders and leadership**
 
-###  A Bit About Me
-I’m currently expanding my expertise in:
-- Advanced Data Visualization (Excel, Power BI, Tableau)
-- Datawarehousing(SQL Server)
-- Predictive Analytics and Statistical Modeling (Python, R)
-- Cloud Data Platforms (Azure, AWS)
+## 🔹 Core Skills
+
+**Analytics & Tools**  
+- SQL (data extraction, validation, hierarchy fixes)  
+- Power BI & Tableau (executive dashboards, performance optimization)  
+- Advanced Excel (KPIs, validation frameworks, reporting automation)  
+- Python (Pandas, Matplotlib, predictive & exploratory analysis)
+
+**Business Focus**  
+- Pricing & promotion analysis  
+- KPI definition & tracking  
+- Experimentation (A/B testing, Test & Learn concepts)  
+- Turning insights into **business actions**
 
 I hold a **Postgraduate Diploma in Business Analytics** and **Project Management** from **Seneca Polytechnic**,  
 and a **Bachelor’s in Electrical Engineering Technology**.
