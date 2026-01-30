@@ -8,11 +8,11 @@ My experience spans **retail-style analytics, KPI reporting and dashboard optimi
 
 ## 🔹 What I Do
 
-- Analyze performance across **items, categories, and locations** using SQL, Excel, and Power BI  
-- Measure and interpret **sales, margin, traffic, and promotion impact**  
-- Build **Power BI & Tableau dashboards** that enable fast, data-driven decisions  
+- Analyze performance across items, categories, and locations using SQL, Excel, and Power BI  
+- Measure and interpret sales, margin, traffic, and promotion impact
+- Build Power BI & Tableau dashboards that enable fast, data-driven decisions  
 - Validate data integrity, resolve hierarchy issues, and ensure reporting accuracy  
-- Communicate insights clearly to **non-technical stakeholders and leadership**
+- Communicate insights clearly to non-technical stakeholders and leadership
 
 ## 🔹 Core Skills
 
