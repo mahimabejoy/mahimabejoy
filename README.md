@@ -1,5 +1,5 @@
 # Hi, I'm Mahima Susan Bijoy
-**Merchandise & Business Analytics | SQL • Power BI • Excel • Python**
+**Business Analytics | SQL • Power BI • Excel • Python**
 
 I’m a data-driven analyst who turns complex merchandising and business data into clear insights that drive pricing, promotion, and assortment decisions.
 
